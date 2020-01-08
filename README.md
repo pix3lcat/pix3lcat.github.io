@@ -1,5 +1,5 @@
 # pix3lcat's GitHub page
 
-## Feel free to leave requests, comments etc
+## Feel free submit PRs :metal:
 
 ### You are cute :)
